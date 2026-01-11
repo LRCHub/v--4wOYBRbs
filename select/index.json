@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "サクラメイキュウ",
+  "base_artist": "分島花音",
+  "createdAt": "2026-01-11T08:36:50.971391Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サクラメイキュウ",
+      "artist": "Kanon Wakeshima",
+      "has_synced": true,
+      "path": "select/01_サクラメイキュウ_Kanon_Wakeshima.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サクラメイキュウ",
+      "artist": "分島花音",
+      "has_synced": true,
+      "path": "select/02_サクラメイキュウ_分島花音.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サクラメイキュウ",
+      "artist": "Wakeshima, Kanon",
+      "has_synced": true,
+      "path": "select/03_サクラメイキュウ_Wakeshima,_Kanon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サクラメイキュウ",
+      "artist": "分島花音",
+      "has_synced": true,
+      "path": "select/04_サクラメイキュウ_分島花音.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サクラメイキュウ -instrumental-",
+      "artist": "分島花音",
+      "has_synced": true,
+      "path": "select/05_サクラメイキュウ_-instrumental-_分島花音.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サクラメイキュウ (Instrumental)",
+      "artist": "分島花音",
+      "has_synced": true,
+      "path": "select/06_サクラメイキュウ_(Instrumental)_分島花音.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サクラメイキュウ",
+      "artist": "分島花音",
+      "has_synced": false,
+      "path": "select/pl_01_サクラメイキュウ_分島花音.txt"
+    }
+  ]
+}
